@@ -1,0 +1,4 @@
+target/
+.netbeans/
+nbproject/private/
+*.class
